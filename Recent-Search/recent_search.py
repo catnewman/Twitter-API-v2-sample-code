@@ -11,7 +11,7 @@ def auth():
 
 
 def create_url():
-    query = "from:twitterdev -is:retweet"
+    query = "pizza OR school from:wow_im_bored -is:retweet"
     # Tweet fields are adjustable.
     # Options include:
     # attachments, author_id, context_annotations,
